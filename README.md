@@ -5,20 +5,24 @@ Welcome to the repository for our course project of the Research Module in Manag
 
 ### Overview
 
-- Project Title: The National School Nutrition Programme and Educational Outcomes in South Africa
+**Project Title**: The National School Nutrition Programme and Educational Outcomes in South Africa
 
-- Supervisors: Sonkurt Sen and Thomas Dohmen
+**Supervisors**:
+  - Sonkurt Sen
+  - Thomas Dohmen
 
-- Group Members: Xinyue Wang, Luis Wardenbach, and Kean Shi
+**Group Members**:
+  - Xinyue Wang
+  - Luis Wardenbach
+  - Kean Shi
 
-- Grade: This project received a final grade of 1.3
+**Grade**: This project received a final grade of 1.3
 
 
 ### Repository Structure
-
-- `rm_code.ipynb`: Python code wroten by me (Xinyue), encompassing data cleaning and descriptive statistics.
+  `rm_code.ipynb`: Python code wroten by me (Xinyue), encompassing data cleaning and descriptive statistics.
   
-- `Project_Paper.pdf`: PDF file of our final project paper. I (Xinyue) wrote Part 3 "Data and Variables" and Part 5 "Discussion and Conclusions". If you encounter issues compiling, please see [this alternative link](https://www.dropbox.com/scl/fi/5myjtprvl4ebbps3azz5a/Project-Paper-of-Research-Module_The-NSNP-and-Educational-Outcomes-in-SA.pdf?rlkey=zdyugrkhlzb2ca1i696rvusnn&dl=0).
+  `Project_Paper.pdf`: PDF file of our final project paper. I (Xinyue) wrote Part 3 "Data and Variables" and Part 5 "Discussion and Conclusions". If you encounter issues compiling, please see [this alternative link](https://www.dropbox.com/scl/fi/5myjtprvl4ebbps3azz5a/Project-Paper-of-Research-Module_The-NSNP-and-Educational-Outcomes-in-SA.pdf?rlkey=zdyugrkhlzb2ca1i696rvusnn&dl=0).
 
 
 ### Contact Information
