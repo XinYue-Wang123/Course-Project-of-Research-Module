@@ -8,8 +8,8 @@ Welcome to the repository for our course project of the Research Module in Manag
 **Project Title**: The National School Nutrition Programme and Educational Outcomes in South Africa
 
 **Supervisors**:
-  - Sonkurt Sen
-  - Thomas Dohmen
+  - Dr. Sonkurt Sen
+  - Prof. Dr. Thomas Dohmen
 
 **Group Members**:
   - Xinyue Wang
