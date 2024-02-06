@@ -16,7 +16,8 @@ Welcome to the repository for our course project of the Research Module in Manag
   - Luis Wardenbach
   - Kean Shi
 
-**Grade**: This project received a final grade of 1.3 ("very good" in the German university grading system)
+**Grade**: 
+This project received a final grade of 1.3 ("very good" in the German university grading system).
 
 
 ## Repository Structure
