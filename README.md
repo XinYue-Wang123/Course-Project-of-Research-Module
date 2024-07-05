@@ -28,4 +28,4 @@ This project received a final grade of 1.3 ("very good" in the German university
 
 ## Contact Information
 
-If you have any questions, suggestions, or feedback, feel free to contact me at yuew1773@gmail.com
+If you have any questions, suggestions, or feedback, feel free to contact me at XinyueW123@outlook.com
